@@ -1,5 +1,4 @@
-胖东来
-于东来
+
 
 DeepSeek
 梁文锋
@@ -22,9 +21,6 @@ DJI
 灵犀
 稚晖君
 彭志辉
-
-黑神话
-冯骥
 
 影之刃零
 梁其伟
@@ -73,10 +69,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -97,6 +89,13 @@ ai
 光刻机
 
 科技
+web3
+币圈
+btc
+eth
+fork
+黑灰产
+情报
 
 核能
 
