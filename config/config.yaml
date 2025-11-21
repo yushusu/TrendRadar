@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "current" # 可选: "daily"|"incremental"|"current"
+  mode: "incremental" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -115,10 +115,6 @@ platforms:
     name: "掘金"
   - id: "kaopu"
     name: "靠谱新闻"
-  - id: "kuaishou"
-    name: "快手"
-  - id: "linuxdo"
-    name: "Linux.do"
   - id: "mktnews"
     name: "市场资讯"
   - id: "nowcoder"
@@ -127,8 +123,6 @@ platforms:
     name: "远景论坛"
   - id: "producthunt"
     name: "Product Hunt"
-  - id: "smzdm"
-    name: "什么值得买"
   - id: "solidot"
     name: "奇客资讯"
   - id: "sputniknewscn"
@@ -155,5 +149,3 @@ platforms:
     name: "联合早报"
   - id: "zhihu"
     name: "知乎"
-  - id: "36kr"
-    name: "36氪"
